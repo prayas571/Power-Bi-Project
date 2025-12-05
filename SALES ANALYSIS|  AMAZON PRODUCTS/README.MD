@@ -2,7 +2,10 @@
 
 > **Professional Business Intelligence Dashboard using Power BI**
 
-![Dashboard Preview](./assets/dashboard.png)
+## Dashboard Preview
+
+![Amazon Sales Analysis Dashboard](https://raw.githubusercontent.com/prayas571/Power-Bi-Project/main/SALES%20ANALYSIS%7C%20%20AMAZON%20PRODUCTS/Screenshot%202025-12-05%20232705.png)
+
 
 ---
 
